@@ -1,0 +1,5 @@
+,id,age,gender,scanner,scan_day,onset,offset,duration_measured,response,key_t,rt,con
+0,test,test,female,Prisma,Tuesday,6.39508361928e-05,7.58974749682,7.58968354599,y,8.89600252011,7.58968354599,ani
+1,test,test,female,Prisma,Tuesday,12.5938285075,19.7742800004,7.1804514929,NA,8.89600252011,7.1804514929,inani
+2,test,test,female,Prisma,Tuesday,24.7960844719,32.0213501048,7.22526563285,NA,8.89600252011,7.22526563285,ani
+3,test,test,female,Prisma,Tuesday,37.0413789537,44.1527406485,7.11136169487,y,44.9415272249,7.11136169487,inani
